@@ -1,0 +1,40 @@
+ABC Software License 
+
+Copyright (c) 2026 ABC Association
+
+Copyright (c) 2026 ABC Programming Language Project. 
+Original ABC Language Concepts Copyright (c) Stichting Mathematisch Centrum (CWI), Amsterdam.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of the ABC 2.0 software, compiler, and documentation (the "Software"), to use, 
+run, copy, and distribute unmodified copies of the Software for educational, 
+personal, or commercial purposes, subject to the following conditions:
+
+1. Attribution: All distributions must retain the copyright notice above, along 
+   with explicit credit to original language designers Leo Geurts, Lambert 
+   Meertens, and Steven Pemberton.
+
+2. Non-Public Domain & Source Integrity: The Software remains copyrighted material 
+   and is not dedicated to the public domain. Modifying or building derivative 
+   compilers is permitted for private use, but modified versions may not be 
+   redistributed publicly as the official "ABC" or "ABC 2.0" distribution without 
+   explicit approval.
+
+3. Trademark Protection: This license grants no rights to use the names, logos, 
+   or trademarks of ABC, CWI, or the ABC 2.0 Project for endorsement, marketing, 
+   or promotional purposes without prior written authorization.
+
+4. Privacy & Data Autonomy: The core compiler, language runtime, and standard 
+   tools operate completely locally. The Software shall not collect, aggregate, 
+   or transmit telemetry, usage analytics, or user source code without explicit, 
+   opt-in consent from the user.
+
+5. Termination & Revocation: This license and the rights granted hereunder will 
+   terminate automatically if you fail to comply with any of its terms. Upon 
+   termination, you must cease all use and distribution of the Software.
+
+6. No Warranty: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN 
+   NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+   DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
