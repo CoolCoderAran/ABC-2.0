@@ -1,0 +1,64 @@
+# ==========================================
+# Build & Binary Output
+# ==========================================
+/target/
+/build/
+/dist/
+/bin/
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.o
+
+# ==========================================
+# Language-Specific & Dependency Artifacts
+# ==========================================
+# Rust
+**/*.rs.bk
+Cargo.lock # Optional: remove if ABC 2.0 is a binary application, keep if a library
+
+# Python (if using Python for tooling or reference implementations)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+
+# C / C++ (if native compiler extensions are built)
+*.out
+*.app
+
+# ==========================================
+# Logs & Temporary Files
+# ==========================================
+*.log
+*.tmp
+*.temp
+*.swp
+
+# ==========================================
+# IDE & System Files
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors & IDEs
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.swo
+*~
