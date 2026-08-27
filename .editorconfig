@@ -1,0 +1,34 @@
+# http://editorconfig.org
+root = true
+
+# Top-level settings for all files
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Markdown files (allow trailing spaces for line breaks)
+[*.md]
+trim_trailing_whitespace = false
+
+# YAML files (workflows, config files)
+[*.{yml,yaml}]
+indent_style = space
+indent_size = 2
+
+# JSON files
+[*.json]
+indent_style = space
+indent_size = 2
+
+# ABC source files (.abc)
+[*.abc]
+indent_style = space
+indent_size = 4
+
+# Makefiles require hard tabs
+[Makefile]
+indent_style = tab
